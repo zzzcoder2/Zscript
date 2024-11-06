@@ -1,7 +1,8 @@
 -- List of allowed Client IDs (replace with actual Client IDs you want to allow)
 local allowedHWIDs = {
     "C01521F7-F683-4C13-868B-05BB263ED23E",  -- Replace with actual Client ID(s)
-    "YOUR-OTHER-CLIENT-ID-HERE",  -- Another example Client ID
+    "A0675AB0-E793-41FF-B64E-DC07C9A02326",
+     "YOUR-OTHER-CLIENT-ID-HERE",   -- Another example Client ID
 }
 
 -- Function to check if the player's Client ID is allowed
